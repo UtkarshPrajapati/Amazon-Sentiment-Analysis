@@ -73,7 +73,7 @@ Before starting, you need to have [Git](https://git-scm.com) & basic Deep Learni
 
 ```bash
 # Clone this project
-$ git clone https://github.com/UtkarshPrajapati/Amazon-Sentiment-Analysis
+$ git clone https://github.com/UtkarshPrajapati/Amazon-Sentiment-Analysis.git
 
 # Access
 $ cd Amazon-Sentiment-Analysis
