@@ -53,7 +53,7 @@ I have done basic text processing & then built an unoptimized Deep Learning mode
 :heavy_check_mark: Has 94.73% Accuracy\
 :heavy_check_mark: Uses Facebook's fastText for Fast Representation \
 :heavy_check_mark: DataSet Link:- www.kaggle.com/datasets/bittlingmayer/amazonreviews \
-:heavy_check_mark: Colab Notebook Link: www.colab.research.google.com/drive/1eaQXq_cg3RLqcDkhmeO4UntairnJdFbk?usp=sharing
+:heavy_check_mark: Colab Notebook Link: https://colab.research.google.com/drive/1eaQXq_cg3RLqcDkhmeO4UntairnJdFbk?usp=sharing
 
 ## :rocket: Technologies ##
 
