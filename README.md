@@ -1,33 +1,33 @@
 <div align="center" id="top"> 
-  <img src="./.github/app.gif" alt="Amazon Dataset EDA" />
+  <img src="./.github/app.gif" alt="Amazon Sentiment Analysis" />
 
   &#xa0;
 
   <!-- <a href="https://amazondataseteda.netlify.app">Demo</a> -->
 </div>
 
-<h1 align="center">Amazon Dataset EDA</h1>
+<h1 align="center">Amazon Sentiment Analysis</h1>
 
 <p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/UtkarshPrajapati/amazon-dataset-eda?color=56BEB8">
+  <img alt="Github top language" src="https://img.shields.io/github/languages/top/UtkarshPrajapati/Amazon-Sentiment-Analysis?color=56BEB8">
 
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/UtkarshPrajapati/amazon-dataset-eda?color=56BEB8">
+  <img alt="Github language count" src="https://img.shields.io/github/languages/count/UtkarshPrajapati/Amazon-Sentiment-Analysis?color=56BEB8">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/UtkarshPrajapati/amazon-dataset-eda?color=56BEB8">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/UtkarshPrajapati/Amazon-Sentiment-Analysis?color=56BEB8">
 
-  <img alt="License" src="https://img.shields.io/github/license/UtkarshPrajapati/amazon-dataset-eda?color=56BEB8">
+  <img alt="License" src="https://img.shields.io/github/license/UtkarshPrajapati/Amazon-Sentiment-Analysis?color=56BEB8">
 
-  <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/UtkarshPrajapati/amazon-dataset-eda?color=56BEB8" /> -->
+  <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/UtkarshPrajapati/Amazon-Sentiment-Analysis?color=56BEB8" /> -->
 
-  <!-- <img alt="Github forks" src="https://img.shields.io/github/forks/UtkarshPrajapati/amazon-dataset-eda?color=56BEB8" /> -->
+  <!-- <img alt="Github forks" src="https://img.shields.io/github/forks/UtkarshPrajapati/Amazon-Sentiment-Analysis?color=56BEB8" /> -->
 
-  <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/UtkarshPrajapati/amazon-dataset-eda?color=56BEB8" /> -->
+  <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/UtkarshPrajapati/Amazon-Sentiment-Analysis?color=56BEB8" /> -->
 </p>
 
 <!-- Status -->
 
 <!-- <h4 align="center"> 
-	🚧  Amazon Dataset EDA 🚀 Under construction...  🚧
+	🚧  Amazon Sentiment Analysis 🚀 Under construction...  🚧
 </h4> 
 
 <hr> -->
@@ -72,10 +72,10 @@ Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) an
 
 ```bash
 # Clone this project
-$ git clone https://github.com/UtkarshPrajapati/amazon-dataset-eda
+$ git clone https://github.com/UtkarshPrajapati/Amazon-Sentiment-Analysis
 
 # Access
-$ cd amazon-dataset-eda
+$ cd Amazon-Sentiment-Analysis
 
 # Install dependencies
 $ yarn
