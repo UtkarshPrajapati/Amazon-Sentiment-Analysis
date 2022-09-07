@@ -1,0 +1,7 @@
+numpy
+pandas
+opendatasets
+matplotlib
+tensorflow
+scikit-learn
+bz2file
