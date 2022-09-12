@@ -22,13 +22,6 @@
   <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/UtkarshPrajapati/Amazon-Sentiment-Analysis?color=56BEB8" /> -->
 </p>
 
-<!-- Status -->
-
-<!-- <h4 align="center"> 
-	🚧  Amazon Sentiment Analysis 🚀 Under construction...  🚧
-</h4> 
-
-<hr> -->
 
 <p align="center">
   <a href="#dart-about">About</a> &#xa0; | &#xa0; 
@@ -36,7 +29,7 @@
   <a href="#rocket-technologies">Technologies</a> &#xa0; | &#xa0;
   <a href="#white_check_mark-requirements">Requirements</a> &#xa0; | &#xa0;
   <a href="#checkered_flag-starting">Starting</a> &#xa0; | &#xa0;
-  <a href="#memo-license">License</a> &#xa0; | &#xa0;
+  <a href="#memo-Made_By">Made By</a> &#xa0; | &#xa0;
   <a href="https://github.com/UtkarshPrajapati" target="_blank">Author</a>
 </p>
 
@@ -86,7 +79,7 @@ $ jupyter nbconvert --execute Sentiment Analysis Amazon.ipynb
 
 ```
 
-## :memo: About ##
+## :memo: Made By ##
 
 Made with :heart: by <a href="https://github.com/UtkarshPrajapati" target="_blank">Utkarsh Prajapati</a>
 
